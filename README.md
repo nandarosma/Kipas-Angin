@@ -42,11 +42,12 @@ Designed with an IoT concept, this project can also be integrated with platforms
 <i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT System • GitHub • Blynk.id • Sensor Automation </i>
 </p>
 
+- Project Demo
 
+YouTube Demo:  
+https://youtu.be/LOQQ63-ZFcg?si=axWovNdM2JsyGpZH
 
 -Conclusion
 
 This project demonstrates how IoT technology and Arduino can be integrated to create a smart automatic temperature control system.
 By combining sensors, automation, and real-time monitoring, the system provides a practical solution for improving comfort and energy efficiency.
-
-yt: https://youtu.be/LOQQ63-ZFcg?si=axWovNdM2JsyGpZH
