@@ -36,21 +36,11 @@ Designed with an IoT concept, this project can also be integrated with platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,cpp,vscode,github&perline=7" />
-</p>
-
-<p align="center">
-<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT System • GitHub • Blynk.id • Sensor Automation </i>
-</p>
-
-## 🛠️ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,vscode,github&perline=7" />
   <img src="https://img.shields.io/badge/Blynk-IoT-23C48E?style=for-the-badge&logo=lightning&logoColor=white">
 </p>
 
 <p align="center">
-<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • Blynk IoT • GitHub • Sensor Automation</i>
+<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • Blynk.ic • IoT • GitHub • Sensor Automation</i>
 </p>
 
 - Project Demo
