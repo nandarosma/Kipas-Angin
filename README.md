@@ -34,14 +34,12 @@ Designed with an IoT concept, this project can also be integrated with platforms
 
 - Tools & Technologies:
 
-## 🛠️ Tools & Technologies
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,cpp,vscode,github&perline=7" />
 </p>
 
 <p align="center">
-<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT System • GitHub • Blynk.id </i>
+<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT System • GitHub • Blynk.id • Sensor Automation </i>
 </p>
 
 
