@@ -16,8 +16,21 @@ The system monitors room temperature in real-time and automatically activates th
 
 Designed with an IoT concept, this project can also be integrated with platforms like Blynk for remote monitoring and automation.
 
--
+- Features
+1. Real-time temperature monitoring
+2. Humidity detection using DHT11
+3. Automatic fan activation
+4. LCD I2C live display
+5. Energy-efficient automation
+6. IoT-based system concept
+7. Simple and low-cost implementation
 
+-Research Results
+
+- *Successful real-time temperature monitoring*  
+- *Automatic fan activation based on temperature threshold*  
+- *Effective room temperature control*  
+- *IoT integration supports remote monitoring systems*
 
 
 
