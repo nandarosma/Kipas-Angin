@@ -49,7 +49,7 @@ https://youtu.be/LOQQ63-ZFcg?si=axWovNdM2JsyGpZH
 
 ![Pickup by Hour](Automatic_Fan_Circuit.png)
 
-![Pickup by Hour](App_Blyk.png)
+![Pickup by Hour](App_Blynk.png)
 
 -Conclusion
 
