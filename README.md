@@ -32,9 +32,15 @@ Designed with an IoT concept, this project can also be integrated with platforms
 - *Effective room temperature control*  
 - *IoT integration supports remote monitoring systems*
 
+- Tools & Technologies:
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,vscode,github&perline=7" />
+</p>
 
-
+<p align="center">
+<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • Blynk IoT • GitHub</i>
+</p>
 
 
 
