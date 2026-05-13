@@ -47,6 +47,10 @@ Designed with an IoT concept, this project can also be integrated with platforms
 YouTube Demo:  
 https://youtu.be/LOQQ63-ZFcg?si=axWovNdM2JsyGpZH
 
+![Pickup by Hour](Automatic_Fan_Circuit.png)
+
+![Pickup by Hour](App_Blynk.png)
+
 -Conclusion
 
 This project demonstrates how IoT technology and Arduino can be integrated to create a smart automatic temperature control system.
