@@ -41,7 +41,7 @@ Designed with an IoT concept, this project can also be integrated with platforms
 </p>
 
 <p align="center">
-<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT System • GitHub • Lynk.id </i>
+<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT System • GitHub • Blynk.id </i>
 </p>
 
 
