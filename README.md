@@ -34,18 +34,14 @@ Designed with an IoT concept, this project can also be integrated with platforms
 
 - Tools & Technologies:
 
+## 🛠️ Tools & Technologies
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,cpp,vscode,github&perline=7" />
 </p>
 
 <p align="center">
-  <a href="https://lynk.id/username">
-    <img src="https://img.shields.io/badge/Powered%20by-Lynk.id-7B3FE4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT • GitHub • Lynk.id</i>
+<i>Arduino Uno • Arduino IDE • C++ • DHT11 Sensor • LCD I2C • IoT System • GitHub • Lynk.id </i>
 </p>
 
 
